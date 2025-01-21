@@ -1,0 +1,17 @@
+/home/mazur/RiderProjects/NETPractice/NETPractice.DAL/bin/Debug/net9.0/NETPractice.DAL.deps.json
+/home/mazur/RiderProjects/NETPractice/NETPractice.DAL/bin/Debug/net9.0/NETPractice.DAL.runtimeconfig.json
+/home/mazur/RiderProjects/NETPractice/NETPractice.DAL/bin/Debug/net9.0/NETPractice.DAL.dll
+/home/mazur/RiderProjects/NETPractice/NETPractice.DAL/bin/Debug/net9.0/NETPractice.DAL.pdb
+/home/mazur/RiderProjects/NETPractice/NETPractice.DAL/bin/Debug/net9.0/NETPractice.Models.dll
+/home/mazur/RiderProjects/NETPractice/NETPractice.DAL/bin/Debug/net9.0/NETPractice.Models.pdb
+/home/mazur/RiderProjects/NETPractice/NETPractice.DAL/obj/Debug/net9.0/NETPractice.DAL.csproj.AssemblyReference.cache
+/home/mazur/RiderProjects/NETPractice/NETPractice.DAL/obj/Debug/net9.0/NETPractice.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/home/mazur/RiderProjects/NETPractice/NETPractice.DAL/obj/Debug/net9.0/NETPractice.DAL.AssemblyInfoInputs.cache
+/home/mazur/RiderProjects/NETPractice/NETPractice.DAL/obj/Debug/net9.0/NETPractice.DAL.AssemblyInfo.cs
+/home/mazur/RiderProjects/NETPractice/NETPractice.DAL/obj/Debug/net9.0/NETPractice.DAL.csproj.CoreCompileInputs.cache
+/home/mazur/RiderProjects/NETPractice/NETPractice.DAL/obj/Debug/net9.0/NETPract.2751C356.Up2Date
+/home/mazur/RiderProjects/NETPractice/NETPractice.DAL/obj/Debug/net9.0/NETPractice.DAL.dll
+/home/mazur/RiderProjects/NETPractice/NETPractice.DAL/obj/Debug/net9.0/refint/NETPractice.DAL.dll
+/home/mazur/RiderProjects/NETPractice/NETPractice.DAL/obj/Debug/net9.0/NETPractice.DAL.pdb
+/home/mazur/RiderProjects/NETPractice/NETPractice.DAL/obj/Debug/net9.0/NETPractice.DAL.genruntimeconfig.cache
+/home/mazur/RiderProjects/NETPractice/NETPractice.DAL/obj/Debug/net9.0/ref/NETPractice.DAL.dll

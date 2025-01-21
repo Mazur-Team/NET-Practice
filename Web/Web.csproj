@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.3.0" />
+        <PackageReference Include="Unity" Version="5.11.10" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\NETPractice.BLL\NETPractice.BLL.csproj" />
+        <ProjectReference Include="..\NETPractice.DAL\NETPractice.DAL.csproj" />
+        <ProjectReference Include="..\NETPractice.Models\NETPractice.Models.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Controllers\" />
+    </ItemGroup>
+
+</Project>

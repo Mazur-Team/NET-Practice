@@ -1,0 +1,11 @@
+/home/mazur/RiderProjects/NETPractice/NETPractice.Models/bin/Debug/net9.0/NETPractice.Models.deps.json
+/home/mazur/RiderProjects/NETPractice/NETPractice.Models/bin/Debug/net9.0/NETPractice.Models.dll
+/home/mazur/RiderProjects/NETPractice/NETPractice.Models/bin/Debug/net9.0/NETPractice.Models.pdb
+/home/mazur/RiderProjects/NETPractice/NETPractice.Models/obj/Debug/net9.0/NETPractice.Models.GeneratedMSBuildEditorConfig.editorconfig
+/home/mazur/RiderProjects/NETPractice/NETPractice.Models/obj/Debug/net9.0/NETPractice.Models.AssemblyInfoInputs.cache
+/home/mazur/RiderProjects/NETPractice/NETPractice.Models/obj/Debug/net9.0/NETPractice.Models.AssemblyInfo.cs
+/home/mazur/RiderProjects/NETPractice/NETPractice.Models/obj/Debug/net9.0/NETPractice.Models.csproj.CoreCompileInputs.cache
+/home/mazur/RiderProjects/NETPractice/NETPractice.Models/obj/Debug/net9.0/NETPractice.Models.dll
+/home/mazur/RiderProjects/NETPractice/NETPractice.Models/obj/Debug/net9.0/refint/NETPractice.Models.dll
+/home/mazur/RiderProjects/NETPractice/NETPractice.Models/obj/Debug/net9.0/NETPractice.Models.pdb
+/home/mazur/RiderProjects/NETPractice/NETPractice.Models/obj/Debug/net9.0/ref/NETPractice.Models.dll

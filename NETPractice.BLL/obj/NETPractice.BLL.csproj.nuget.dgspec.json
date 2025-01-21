@@ -1,0 +1,206 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/mazur/RiderProjects/NETPractice/NETPractice.BLL/NETPractice.BLL.csproj": {}
+  },
+  "projects": {
+    "/home/mazur/RiderProjects/NETPractice/NETPractice.BLL/NETPractice.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mazur/RiderProjects/NETPractice/NETPractice.BLL/NETPractice.BLL.csproj",
+        "projectName": "NETPractice.BLL",
+        "projectPath": "/home/mazur/RiderProjects/NETPractice/NETPractice.BLL/NETPractice.BLL.csproj",
+        "packagesPath": "/home/mazur/.nuget/packages/",
+        "outputPath": "/home/mazur/RiderProjects/NETPractice/NETPractice.BLL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mazur/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/mazur/RiderProjects/NETPractice/NETPractice.DAL/NETPractice.DAL.csproj": {
+                "projectPath": "/home/mazur/RiderProjects/NETPractice/NETPractice.DAL/NETPractice.DAL.csproj"
+              },
+              "/home/mazur/RiderProjects/NETPractice/NETPractice.Models/NETPractice.Models.csproj": {
+                "projectPath": "/home/mazur/RiderProjects/NETPractice/NETPractice.Models/NETPractice.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/mazur/RiderProjects/NETPractice/NETPractice.DAL/NETPractice.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mazur/RiderProjects/NETPractice/NETPractice.DAL/NETPractice.DAL.csproj",
+        "projectName": "NETPractice.DAL",
+        "projectPath": "/home/mazur/RiderProjects/NETPractice/NETPractice.DAL/NETPractice.DAL.csproj",
+        "packagesPath": "/home/mazur/.nuget/packages/",
+        "outputPath": "/home/mazur/RiderProjects/NETPractice/NETPractice.DAL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mazur/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/mazur/RiderProjects/NETPractice/NETPractice.Models/NETPractice.Models.csproj": {
+                "projectPath": "/home/mazur/RiderProjects/NETPractice/NETPractice.Models/NETPractice.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/mazur/RiderProjects/NETPractice/NETPractice.Models/NETPractice.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mazur/RiderProjects/NETPractice/NETPractice.Models/NETPractice.Models.csproj",
+        "projectName": "NETPractice.Models",
+        "projectPath": "/home/mazur/RiderProjects/NETPractice/NETPractice.Models/NETPractice.Models.csproj",
+        "packagesPath": "/home/mazur/.nuget/packages/",
+        "outputPath": "/home/mazur/RiderProjects/NETPractice/NETPractice.Models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mazur/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

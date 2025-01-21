@@ -1,0 +1,46 @@
+@model IEnumerable<NETPractice.Models.Movie>
+
+@{
+    ViewData["Title"] = "Movies";
+}
+
+<h1>Movies</h1>
+
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th>#</th>
+        <th>Title</th>
+        <th>Description</th>
+        <th>Genre</th>
+        <th>Release Date</th>
+        <th>Actions</th>
+    </tr>
+    </thead>
+    <tbody>
+    @if (Model != null && Model.Any()) {
+        int index = 1;
+        foreach (var movie in Model) {
+            <tr>
+                <td>@index</td>
+                <td>@movie.Title</td>
+                <td>@movie.Description</td>
+                <td>@movie.Genre</td>
+                <td>@movie.ReleaseDate.ToString("yyyy-MM-dd")</td>
+                <td>
+                    <a href="@Url.Action("Details", new { id = movie.Id })" class="btn btn-info">Details</a>
+                    <a href="@Url.Action("Edit", new { id = movie.Id })" class="btn btn-warning">Edit</a>
+                    <a href="@Url.Action("Delete", new { id = movie.Id })" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+            index++;
+        }
+    } else {
+        <tr>
+            <td colspan="6" class="text-center">No movies available</td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+<a href="@Url.Action("Create")" class="btn btn-success">Add New Movie</a>
